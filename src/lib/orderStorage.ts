@@ -39,6 +39,15 @@ export const getImagePath = (imagePath: string) => {
   return `/images/${encodedPath}`;
 };
 
+/** 获取菜品展示图：优先 products/{id}.jpg，没有则回退 coverImage */
+export const getDishImage = (dish: Dish): string => {
+  const paddedId = String(dish.id).padStart(3, "0");
+
+  // 约定路径：public/images/products/{id}.jpg
+  // 如果没有此文件，图片会触发 onError，组件已做好回退处理
+  return `/images/products/${paddedId}.jpg`;
+};
+
 export const addDishToCart = (items: CartItem[], dishId: number): CartItem[] => {
   const existing = items.find((item) => item.dishId === dishId);
   if (!existing) {

@@ -8,7 +8,7 @@ import { CartBar } from "@/components/CartBar";
 import { DishCard } from "@/components/DishCard";
 import { getCategoryDisplayName } from "@/lib/menuDisplay";
 import {
-  getImagePath,
+  getDishImage,
   getSelectedDishCount,
   getTotalCartQuantity,
 } from "@/lib/orderStorage";
@@ -53,25 +53,25 @@ export function HomeClient({ dishes }: HomeClientProps) {
         name: dish.name,
         category: getCategoryDisplayName(dish.category),
         quantity: item.quantity,
-        imageSrc: getImagePath(dish.cover_image),
+        imageSrc: getDishImage(dish),
       };
     })
     .filter((item): item is NonNullable<typeof item> => item !== null);
 
   return (
     <main className="mx-auto min-h-screen max-w-[430px] overflow-hidden bg-[#f4f1e9] text-stone-950">
-      <header className="relative h-[180px] overflow-hidden bg-[linear-gradient(135deg,#064e3b_0%,#0f8a45_58%,#72b86d_100%)] px-4 pb-4 pt-[calc(env(safe-area-inset-top)+18px)] text-white">
+      <header className="relative h-[230px] overflow-hidden bg-[linear-gradient(135deg,#064e3b_0%,#0f8a45_58%,#72b86d_100%)] px-4 pb-3 pt-[calc(env(safe-area-inset-top)+16px)] text-white">
         <div className="absolute -right-10 -top-12 size-36 rounded-full bg-white/10" />
         <div className="absolute bottom-4 right-8 size-16 rounded-full bg-[#ffd166]/18" />
-        <div className="flex items-start justify-between gap-4">
-          <div className="flex min-w-0 items-center gap-3">
-            <div className="grid size-16 shrink-0 place-items-center rounded-[20px] bg-white text-[28px] font-bold text-[#0f8a45] shadow-sm ring-1 ring-white/40">
+        <div className="flex items-start justify-between gap-3">
+          <div className="flex min-w-0 items-center gap-2.5">
+            <div className="grid size-14 shrink-0 place-items-center rounded-[18px] bg-white text-[24px] font-bold text-[#0f8a45] shadow-sm ring-1 ring-white/40">
               然
             </div>
             <div className="min-w-0">
-              <h1 className="truncate text-[24px] font-bold leading-tight">然然的养猪场</h1>
-              <p className="mt-2 text-[14px] leading-5 text-white/82">
-                今晚在家吃 · {dishes.length} 道菜 · 全部 0 元
+              <h1 className="truncate text-[22px] font-bold leading-tight">然然的养猪场</h1>
+              <p className="mt-1.5 text-[13px] leading-5 text-white/82">
+                82 道家常菜 · 全部 0 元
               </p>
             </div>
           </div>
@@ -80,27 +80,27 @@ export function HomeClient({ dishes }: HomeClientProps) {
             <button
               type="button"
               aria-label="搜索"
-              className="grid size-10 place-items-center rounded-full bg-white/18 text-white shadow-sm ring-1 ring-white/20 backdrop-blur"
+              className="grid size-9 place-items-center rounded-full bg-white/18 text-white shadow-sm ring-1 ring-white/20 backdrop-blur"
             >
-              <Search size={21} aria-hidden="true" />
+              <Search size={19} aria-hidden="true" />
             </button>
             <Link
               href="/orders"
               aria-label="订单"
-              className="grid size-10 place-items-center rounded-full bg-white/18 text-white shadow-sm ring-1 ring-white/20 backdrop-blur"
+              className="grid size-9 place-items-center rounded-full bg-white/18 text-white shadow-sm ring-1 ring-white/20 backdrop-blur"
             >
-              <ClipboardList size={21} aria-hidden="true" />
+              <ClipboardList size={19} aria-hidden="true" />
             </Link>
           </div>
         </div>
 
-        <div className="mt-6 rounded-[18px] bg-white/16 px-4 py-3 text-[14px] font-medium text-white/88 shadow-sm ring-1 ring-white/14 backdrop-blur">
-          生，童叟无欺，欢迎点菜
+        <div className="mt-4 rounded-[16px] bg-white/16 px-3.5 py-2.5 text-[13px] font-medium text-white/88 shadow-sm ring-1 ring-white/14 backdrop-blur">
+          点完菜，男朋友开做
         </div>
       </header>
 
-      <section className="flex h-[calc(100dvh-180px)] bg-[#fbfaf6] pb-[132px]">
-        <aside className="w-24 shrink-0 overflow-y-auto bg-[#eceee9] py-3">
+      <section className="flex bg-[#fbfaf6] pb-[132px]" style={{ height: 'calc(100dvh - 230px)' }}>
+        <aside className="w-[104px] shrink-0 overflow-y-auto bg-[#eceee9] py-2">
           {categories.map((category) => {
             const isActive = category === currentCategory;
             const displayName = getCategoryDisplayName(category);
@@ -110,7 +110,7 @@ export function HomeClient({ dishes }: HomeClientProps) {
                 key={category}
                 type="button"
                 onClick={() => setActiveCategory(category)}
-                className={`relative mb-2 flex min-h-[70px] w-full items-center px-4 text-left text-[17px] font-bold leading-5 transition ${
+                className={`relative flex h-[70px] w-full items-center px-3 text-left text-[16px] font-bold leading-5 transition ${
                   isActive ? "bg-[#fbfaf6] text-[#0f8a45]" : "text-stone-700"
                 }`}
               >

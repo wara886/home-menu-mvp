@@ -9,6 +9,8 @@ export interface Dish {
   steps: string[];
   tags: string[];
   image_step_check?: string;
+  /** 正式商品图路径（public/images/products/xxx.jpg），首页优先显示 */
+  productImage?: string;
 }
 
 export interface CartItem {

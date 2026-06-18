@@ -99,7 +99,89 @@ http://192.168.3.75:3000
 ## 说明
 
 - 菜品数据仍然使用 `src/data/dishes.json`
-- 菜品图片仍然使用 `public/images/covers` 和 `public/images/recipe_cards`
+- 菜品图片逻辑：
+  - 首页菜品卡片 **优先显示** `public/images/products/` 下的商品图
+  - 没有商品图时自动回退 `public/images/covers/` 原封面图
+  - 详情页继续保留 `coverImage`（封面大图）和 `sourceCardImage`（原始菜谱卡片截图）
+  - `public/images/covers` 和 `public/images/recipe_cards` **不会被删除或覆盖**
 - 购物车仍然使用浏览器 `localStorage`
 - 订单数据使用 Supabase `orders` 表
 - 当前没有登录、支付、通知
+
+## 商品图替换流水线
+
+### 目录结构
+
+```
+public/images/
+├── covers/                          # 原有封面图（不动）
+├── recipe_cards/                    # 原有菜谱截图（不动）
+├── products/                        # 统一处理后的商品图（800×800 jpg）
+├── product_candidates/              # 候选图临时存放
+└── product_candidates_selected/     # 选中的待处理图（输入目录）
+public/image_sources/
+└── image_tasks.csv                  # 图片搜索任务清单
+```
+
+### 商品图命名规则
+
+```
+public/images/products/001.jpg   — id=1  西红柿炒鸡蛋
+public/images/products/002.jpg   — id=2  酸辣土豆丝
+...
+public/images/products/082.jpg   — id=82 鸡蛋饼
+```
+
+### Step 1：生成搜索任务清单
+
+```bash
+npx tsx scripts/generate-image-tasks.ts
+```
+
+输出 `public/image_sources/image_tasks.csv`，每道菜包含：
+
+| 字段 | 说明 |
+|------|------|
+| `query_cn` | 中文搜索词（如"西红柿炒鸡蛋 家常菜 成品图 高清 无水印"） |
+| `query_en` | 英文搜索词（如"Chinese tomato scrambled eggs dish"） |
+| `local_path` | 最终存放路径 |
+
+### Step 2：在免版权图库搜索图片
+
+**推荐图库（授权清晰）：**
+- [Pexels](https://pexels.com) — CC0 / Pexels 许可
+- [Pixabay](https://pixabay.com) — Pixabay 许可（大部分 CC0）
+- [Unsplash](https://unsplash.com) — Unsplash 许可
+- [Openverse](https://openverse.org) / Wikimedia Commons — CC 系列许可
+
+**不建议使用：** 外卖平台、小红书、抖音、百度图片等来源不清晰的图片（版权风险）。
+
+### Step 3：选图放入输入目录
+
+将选好的图放入 `public/images/product_candidates_selected/`，命名规则：
+
+```
+001.jpg  002.jpg  003.jpg  ...  082.jpg
+```
+
+支持 `.jpg` `.jpeg` `.png` `.webp` 格式输入。
+
+### Step 4：统一处理为商品图
+
+```bash
+npx tsx scripts/process-product-images.ts
+```
+
+处理结果：
+- **输出**：`public/images/products/xxx.jpg`
+- **尺寸**：800×800
+- **格式**：JPEG quality 85（mozjpeg）
+- **裁切**：center crop（object-cover 效果）
+- **跳过**：没有输入图片的 ID 会打印 warning 并跳过
+- **保留**：原始 covers 和 recipe_cards 不变
+
+### 首页自动切换
+
+- 如果 `public/images/products/xxx.jpg` 存在，首页自动显示商品图
+- 不存在则显示原来的 `covers/xxx` 封面图
+- 无需改代码，无需改 `dishes.json`

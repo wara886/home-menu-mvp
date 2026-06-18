@@ -41,10 +41,10 @@ export function CartBar({
   };
 
   return (
-    <div className="fixed inset-x-0 bottom-0 z-40 px-4 pb-[calc(env(safe-area-inset-bottom)+12px)] pt-2">
+    <div className="fixed inset-x-0 bottom-0 z-40 px-4 pb-[calc(env(safe-area-inset-bottom)+4px)] pt-0">
       {isOpen ? (
-        <div className="mx-auto mb-3 max-w-[398px] overflow-hidden rounded-[20px] bg-white shadow-2xl ring-1 ring-stone-200">
-          <div className="flex items-center justify-between border-b border-stone-100 px-4 py-3">
+        <div className="mx-auto mb-2 max-w-[398px] overflow-hidden rounded-[18px] bg-white shadow-2xl ring-1 ring-stone-200">
+          <div className="flex items-center justify-between border-b border-stone-100 px-4 py-2.5">
             <div>
               <div className="text-[17px] font-bold text-stone-950">已点菜品</div>
               <div className="mt-0.5 text-[13px] text-stone-500">
@@ -138,26 +138,26 @@ export function CartBar({
         </div>
       ) : null}
 
-      <div className="mx-auto flex max-w-[398px] items-center justify-between rounded-full bg-[#202124] p-2 pl-3 text-white shadow-2xl">
+      <div className="mx-auto flex max-w-[398px] items-center justify-between rounded-full bg-[#202124] p-1.5 pl-2 text-white shadow-2xl">
         <button
           type="button"
           onClick={() => setIsOpen((current) => (hasItems ? !current : true))}
-          className="flex min-w-0 flex-1 items-center gap-3 text-left"
+          className="flex min-w-0 flex-1 items-center gap-2.5 text-left"
           aria-label="查看已点菜品"
         >
-          <div className="grid size-12 place-items-center rounded-full bg-[#0f8a45]">
-            <ShoppingCart size={22} aria-hidden="true" />
+          <div className="grid size-10 place-items-center rounded-full bg-[#0f8a45]">
+            <ShoppingCart size={20} aria-hidden="true" />
           </div>
           <div className="min-w-0">
-            <div className="text-[16px] font-semibold">已选 {selectedDishCount} 道菜</div>
-            <div className="truncate whitespace-nowrap text-sm text-white/68">合计 0 元</div>
+            <div className="text-[15px] font-semibold">已选 {selectedDishCount} 道菜</div>
+            <div className="truncate whitespace-nowrap text-[12px] text-white/68">合计 0 元</div>
           </div>
         </button>
 
         {hasItems ? (
           <Link
             href="/cart"
-            className="rounded-full bg-[#0f8a45] px-5 py-3 text-[16px] font-semibold text-white"
+            className="rounded-full bg-[#0f8a45] px-4 py-2.5 text-[15px] font-semibold text-white"
           >
             去下单
           </Link>
@@ -165,7 +165,7 @@ export function CartBar({
           <button
             type="button"
             disabled
-            className="rounded-full bg-stone-200 px-5 py-3 text-[16px] font-semibold text-stone-500"
+            className="rounded-full bg-stone-200 px-4 py-2.5 text-[15px] font-semibold text-stone-500"
           >
             去下单
           </button>
