@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+:root {
+  --background: #fff8f1;
+  --foreground: #202124;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: #f3efe8;
+}
+
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--foreground);
+  font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+button {
+  -webkit-tap-highlight-color: transparent;
+}

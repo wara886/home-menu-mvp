@@ -1,0 +1,1600 @@
+[
+  {
+    "id": 1,
+    "name": "西红柿炒鸡蛋",
+    "category": "鸡蛋类",
+    "video_time_sec": 2.0,
+    "video_time": "00:02",
+    "cover_image": "covers/001_西红柿炒鸡蛋_cover.jpg",
+    "source_card_image": "recipe_cards/001_西红柿炒鸡蛋.jpg",
+    "steps": [
+      "西红柿去皮切块，鸡蛋打散，葱花备用。",
+      "鸡蛋先炒至凝固盛出。",
+      "锅中炒出西红柿汁，加入鸡蛋回锅。",
+      "加盐、少许糖调味，翻炒均匀出锅。"
+    ],
+    "tags": [
+      "鸡蛋类"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 2,
+    "name": "酸辣土豆丝",
+    "category": "素菜豆制品",
+    "video_time_sec": 3.5,
+    "video_time": "00:03",
+    "cover_image": "covers/002_酸辣土豆丝_cover.jpg",
+    "source_card_image": "recipe_cards/002_酸辣土豆丝.jpg",
+    "steps": [
+      "土豆切细丝，清水洗去淀粉后沥干。",
+      "热锅爆香蒜末、干辣椒。",
+      "下土豆丝大火快炒，加入醋、生抽和盐。",
+      "炒至断生保持脆感，撒葱段出锅。"
+    ],
+    "tags": [
+      "酸辣",
+      "素菜豆制品"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 3,
+    "name": "青椒炒五花肉",
+    "category": "猪肉排骨",
+    "video_time_sec": 5.0,
+    "video_time": "00:05",
+    "cover_image": "covers/003_青椒炒五花肉_cover.jpg",
+    "source_card_image": "recipe_cards/003_青椒炒五花肉.jpg",
+    "steps": [
+      "主料和配菜切好，肉类可先加生抽、料酒、淀粉腌制。",
+      "热锅爆香葱姜蒜，先炒主料至变色。",
+      "加入配菜大火翻炒至断生。",
+      "加生抽、蚝油、盐等调味，炒匀出锅。"
+    ],
+    "tags": [
+      "猪肉排骨"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 4,
+    "name": "红烧鸡翅",
+    "category": "鸡鸭禽类",
+    "video_time_sec": 6.5,
+    "video_time": "00:06",
+    "cover_image": "covers/004_红烧鸡翅_cover.jpg",
+    "source_card_image": "recipe_cards/004_红烧鸡翅.jpg",
+    "steps": [
+      "主料处理干净，必要时焯水去腥。",
+      "热锅煸炒主料，加入葱姜蒜和料酒。",
+      "加生抽、老抽、糖和清水焖煮入味。",
+      "大火收汁，撒葱花出锅。"
+    ],
+    "tags": [
+      "红烧",
+      "鸡鸭禽类"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 5,
+    "name": "酸辣娃娃菜",
+    "category": "素菜豆制品",
+    "video_time_sec": 8.0,
+    "video_time": "00:08",
+    "cover_image": "covers/005_酸辣娃娃菜_cover.jpg",
+    "source_card_image": "recipe_cards/005_酸辣娃娃菜.jpg",
+    "steps": [
+      "娃娃菜切条，蒜末、小米辣备好。",
+      "锅中爆香蒜末和辣椒。",
+      "下娃娃菜翻炒至变软。",
+      "加生抽、醋、盐和少许糖，炒匀出锅。"
+    ],
+    "tags": [
+      "酸辣",
+      "素菜豆制品"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 6,
+    "name": "豆角炒五花肉",
+    "category": "猪肉排骨",
+    "video_time_sec": 9.5,
+    "video_time": "00:09",
+    "cover_image": "covers/006_豆角炒五花肉_cover.jpg",
+    "source_card_image": "recipe_cards/006_豆角炒五花肉.jpg",
+    "steps": [
+      "主料和配菜切好，肉类可先加生抽、料酒、淀粉腌制。",
+      "热锅爆香葱姜蒜，先炒主料至变色。",
+      "加入配菜大火翻炒至断生。",
+      "加生抽、蚝油、盐等调味，炒匀出锅。"
+    ],
+    "tags": [
+      "猪肉排骨"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 7,
+    "name": "鱼香肉丝",
+    "category": "猪肉排骨",
+    "video_time_sec": 11.0,
+    "video_time": "00:11",
+    "cover_image": "covers/007_鱼香肉丝_cover.jpg",
+    "source_card_image": "recipe_cards/007_鱼香肉丝.jpg",
+    "steps": [
+      "肉丝加料酒、淀粉腌制，木耳、胡萝卜、青椒切丝。",
+      "调鱼香汁：生抽、醋、糖、淀粉和清水。",
+      "肉丝滑炒变色后盛出，爆香蒜末和豆瓣酱。",
+      "配菜与肉丝回锅，倒入鱼香汁收浓。"
+    ],
+    "tags": [
+      "猪肉排骨"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 8,
+    "name": "香辣花甲",
+    "category": "海鲜水产",
+    "video_time_sec": 12.5,
+    "video_time": "00:12",
+    "cover_image": "covers/008_香辣花甲_cover.jpg",
+    "source_card_image": "recipe_cards/008_香辣花甲.jpg",
+    "steps": [
+      "主料处理干净，必要时腌制或焯水。",
+      "热锅爆香姜蒜、辣椒、花椒或剁椒。",
+      "下主料大火翻炒至熟。",
+      "加入生抽、蚝油和少许糖调味，炒匀出锅。"
+    ],
+    "tags": [
+      "香辣",
+      "海鲜水产"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 9,
+    "name": "小鸡炖蘑菇",
+    "category": "鸡鸭禽类",
+    "video_time_sec": 14.0,
+    "video_time": "00:14",
+    "cover_image": "covers/009_小鸡炖蘑菇_cover.jpg",
+    "source_card_image": "recipe_cards/009_小鸡炖蘑菇.jpg",
+    "steps": [
+      "鸡块焯水去腥，蘑菇泡发或洗净。",
+      "锅中炒香葱姜、八角等香料，下鸡块煸炒。",
+      "加入生抽、老抽和清水炖煮。",
+      "下蘑菇继续炖至鸡肉软烂，调盐收汁。"
+    ],
+    "tags": [
+      "炖",
+      "鸡鸭禽类"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 10,
+    "name": "韭菜炒鸡蛋",
+    "category": "鸡蛋类",
+    "video_time_sec": 15.5,
+    "video_time": "00:15",
+    "cover_image": "covers/010_韭菜炒鸡蛋_cover.jpg",
+    "source_card_image": "recipe_cards/010_韭菜炒鸡蛋.jpg",
+    "steps": [
+      "鸡蛋处理好，配菜洗净切好。",
+      "鸡蛋先煎/炒至定型后盛出。",
+      "热锅爆香蒜末，下配菜翻炒至断生。",
+      "鸡蛋回锅，加盐、生抽或蚝油炒匀出锅。"
+    ],
+    "tags": [
+      "鸡蛋类"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 11,
+    "name": "蒜蓉生菜",
+    "category": "素菜豆制品",
+    "video_time_sec": 17.0,
+    "video_time": "00:17",
+    "cover_image": "covers/011_蒜蓉生菜_cover.jpg",
+    "source_card_image": "recipe_cards/011_蒜蓉生菜.jpg",
+    "steps": [
+      "生菜洗净沥干，蒜末备好。",
+      "锅中烧水加少许油盐，生菜快速焯烫。",
+      "热油爆香蒜末，加入生抽和蚝油调汁。",
+      "把蒜蓉汁淋在生菜上即可。"
+    ],
+    "tags": [
+      "蒜蓉",
+      "素菜豆制品"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 12,
+    "name": "干锅花菜",
+    "category": "素菜豆制品",
+    "video_time_sec": 18.5,
+    "video_time": "00:18",
+    "cover_image": "covers/012_干锅花菜_cover.jpg",
+    "source_card_image": "recipe_cards/012_干锅花菜.jpg",
+    "steps": [
+      "主料和配菜处理好，部分食材先焯水或煎熟。",
+      "锅中爆香葱姜蒜、干辣椒和豆瓣/火锅底料。",
+      "下主料和配菜大火翻炒。",
+      "加生抽、蚝油调味，炒干香后出锅。"
+    ],
+    "tags": [
+      "干锅",
+      "素菜豆制品"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 13,
+    "name": "孜然鸡腿肉",
+    "category": "鸡鸭禽类",
+    "video_time_sec": 20.0,
+    "video_time": "00:20",
+    "cover_image": "covers/013_孜然鸡腿肉_cover.jpg",
+    "source_card_image": "recipe_cards/013_孜然鸡腿肉.jpg",
+    "steps": [
+      "主料切片或切块，必要时焯水/煎熟。",
+      "锅中爆香蒜末和辣椒。",
+      "下主料翻炒至表面微焦。",
+      "加入孜然粉、辣椒粉、生抽和盐炒匀。"
+    ],
+    "tags": [
+      "孜然",
+      "鸡鸭禽类"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 14,
+    "name": "包菜炒五花肉",
+    "category": "猪肉排骨",
+    "video_time_sec": 21.5,
+    "video_time": "00:21",
+    "cover_image": "covers/014_包菜炒五花肉_cover.jpg",
+    "source_card_image": "recipe_cards/014_包菜炒五花肉.jpg",
+    "steps": [
+      "主料和配菜切好，肉类可先加生抽、料酒、淀粉腌制。",
+      "热锅爆香葱姜蒜，先炒主料至变色。",
+      "加入配菜大火翻炒至断生。",
+      "加生抽、蚝油、盐等调味，炒匀出锅。"
+    ],
+    "tags": [
+      "猪肉排骨"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 15,
+    "name": "红烧土豆块",
+    "category": "素菜豆制品",
+    "video_time_sec": 23.0,
+    "video_time": "00:23",
+    "cover_image": "covers/015_红烧土豆块_cover.jpg",
+    "source_card_image": "recipe_cards/015_红烧土豆块.jpg",
+    "steps": [
+      "主料处理干净，必要时焯水去腥。",
+      "热锅煸炒主料，加入葱姜蒜和料酒。",
+      "加生抽、老抽、糖和清水焖煮入味。",
+      "大火收汁，撒葱花出锅。"
+    ],
+    "tags": [
+      "红烧",
+      "素菜豆制品"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 16,
+    "name": "肉沫豆腐",
+    "category": "猪肉排骨",
+    "video_time_sec": 24.5,
+    "video_time": "00:24",
+    "cover_image": "covers/016_肉沫豆腐_cover.jpg",
+    "source_card_image": "recipe_cards/016_肉沫豆腐.jpg",
+    "steps": [
+      "主料处理干净，按菜名准备配菜。",
+      "先完成腌制、焯水或煎炸等预处理。",
+      "热锅加入葱姜蒜和调味料炒香。",
+      "主料回锅加调味汁，熟透入味后出锅。"
+    ],
+    "tags": [
+      "猪肉排骨"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 17,
+    "name": "麻婆豆腐",
+    "category": "素菜豆制品",
+    "video_time_sec": 26.0,
+    "video_time": "00:26",
+    "cover_image": "covers/017_麻婆豆腐_cover.jpg",
+    "source_card_image": "recipe_cards/017_麻婆豆腐.jpg",
+    "steps": [
+      "豆腐切块焯水，肉末和蒜末备好。",
+      "热锅炒香肉末、豆瓣酱和花椒粉。",
+      "加入清水和豆腐小火煮入味。",
+      "分次勾芡，撒葱花出锅。"
+    ],
+    "tags": [
+      "素菜豆制品"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 18,
+    "name": "香煎鱼块",
+    "category": "海鲜水产",
+    "video_time_sec": 27.5,
+    "video_time": "00:27",
+    "cover_image": "covers/018_香煎鱼块_cover.jpg",
+    "source_card_image": "recipe_cards/018_香煎鱼块.jpg",
+    "steps": [
+      "主料处理干净并吸干水分。",
+      "表面加盐、料酒或少许淀粉腌制。",
+      "平底锅少油煎至两面金黄。",
+      "加入调味汁略焖，撒葱花出锅。"
+    ],
+    "tags": [
+      "香煎",
+      "海鲜水产"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 19,
+    "name": "干煸杏鲍菇",
+    "category": "素菜豆制品",
+    "video_time_sec": 29.0,
+    "video_time": "00:29",
+    "cover_image": "covers/019_干煸杏鲍菇_cover.jpg",
+    "source_card_image": "recipe_cards/019_干煸杏鲍菇.jpg",
+    "steps": [
+      "主料处理干净，按菜名准备配菜。",
+      "先完成腌制、焯水或煎炸等预处理。",
+      "热锅加入葱姜蒜和调味料炒香。",
+      "主料回锅加调味汁，熟透入味后出锅。"
+    ],
+    "tags": [
+      "素菜豆制品"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 20,
+    "name": "藤椒鸡翅",
+    "category": "鸡鸭禽类",
+    "video_time_sec": 30.5,
+    "video_time": "00:30",
+    "cover_image": "covers/020_藤椒鸡翅_cover.jpg",
+    "source_card_image": "recipe_cards/020_藤椒鸡翅.jpg",
+    "steps": [
+      "主料处理干净，必要时腌制或焯水。",
+      "热锅爆香姜蒜、辣椒、花椒或剁椒。",
+      "下主料大火翻炒至熟。",
+      "加入生抽、蚝油和少许糖调味，炒匀出锅。"
+    ],
+    "tags": [
+      "藤椒",
+      "鸡鸭禽类"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 21,
+    "name": "香辣大虾",
+    "category": "海鲜水产",
+    "video_time_sec": 32.0,
+    "video_time": "00:32",
+    "cover_image": "covers/021_香辣大虾_cover.jpg",
+    "source_card_image": "recipe_cards/021_香辣大虾.jpg",
+    "steps": [
+      "主料处理干净，必要时腌制或焯水。",
+      "热锅爆香姜蒜、辣椒、花椒或剁椒。",
+      "下主料大火翻炒至熟。",
+      "加入生抽、蚝油和少许糖调味，炒匀出锅。"
+    ],
+    "tags": [
+      "香辣",
+      "海鲜水产"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 22,
+    "name": "东北地三鲜",
+    "category": "素菜豆制品",
+    "video_time_sec": 33.5,
+    "video_time": "00:33",
+    "cover_image": "covers/022_东北地三鲜_cover.jpg",
+    "source_card_image": "recipe_cards/022_东北地三鲜.jpg",
+    "steps": [
+      "土豆、茄子、青椒切块。",
+      "土豆和茄子先煎/炸至表面微黄。",
+      "锅中爆香蒜末，加入三样食材。",
+      "加生抽、蚝油、糖和淀粉水翻匀收汁。"
+    ],
+    "tags": [
+      "素菜豆制品"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 23,
+    "name": "盐焗鸡腿肉",
+    "category": "鸡鸭禽类",
+    "video_time_sec": 35.0,
+    "video_time": "00:35",
+    "cover_image": "covers/023_盐焗鸡腿肉_cover.jpg",
+    "source_card_image": "recipe_cards/023_盐焗鸡腿肉.jpg",
+    "steps": [
+      "主料处理干净，按菜名准备配菜。",
+      "先完成腌制、焯水或煎炸等预处理。",
+      "热锅加入葱姜蒜和调味料炒香。",
+      "主料回锅加调味汁，熟透入味后出锅。"
+    ],
+    "tags": [
+      "鸡鸭禽类"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 24,
+    "name": "捞汁小海鲜",
+    "category": "凉拌开胃",
+    "video_time_sec": 36.5,
+    "video_time": "00:36",
+    "cover_image": "covers/024_捞汁小海鲜_cover.jpg",
+    "source_card_image": "recipe_cards/024_捞汁小海鲜.jpg",
+    "steps": [
+      "海鲜清洗处理，焯熟后过凉。",
+      "调捞汁：生抽、醋、蚝油、糖、蒜末、小米辣和清水。",
+      "海鲜与配菜放入碗中。",
+      "倒入捞汁冷藏入味后食用。"
+    ],
+    "tags": [
+      "凉拌开胃"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 25,
+    "name": "麻辣牛蛙",
+    "category": "牛肉牛蛙",
+    "video_time_sec": 38.0,
+    "video_time": "00:38",
+    "cover_image": "covers/025_麻辣牛蛙_cover.jpg",
+    "source_card_image": "recipe_cards/025_麻辣牛蛙.jpg",
+    "steps": [
+      "牛蛙剁块，料酒、盐和淀粉腌制。",
+      "热油滑熟牛蛙后盛出。",
+      "爆香姜蒜、干辣椒、花椒和豆瓣酱。",
+      "牛蛙回锅，加青红椒翻炒入味。"
+    ],
+    "tags": [
+      "麻辣",
+      "牛肉牛蛙"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 26,
+    "name": "风味茄子",
+    "category": "素菜豆制品",
+    "video_time_sec": 39.5,
+    "video_time": "00:39",
+    "cover_image": "covers/026_风味茄子_cover.jpg",
+    "source_card_image": "recipe_cards/026_风味茄子.jpg",
+    "steps": [
+      "茄子切条，裹少量淀粉。",
+      "热油炸/煎至外皮酥香后控油。",
+      "锅中炒香干辣椒、花椒和蒜末。",
+      "下茄子加酱汁快速翻匀，撒芝麻出锅。"
+    ],
+    "tags": [
+      "素菜豆制品"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 27,
+    "name": "孜然土豆片",
+    "category": "素菜豆制品",
+    "video_time_sec": 41.0,
+    "video_time": "00:41",
+    "cover_image": "covers/027_孜然土豆片_cover.jpg",
+    "source_card_image": "recipe_cards/027_孜然土豆片.jpg",
+    "steps": [
+      "主料切片或切块，必要时焯水/煎熟。",
+      "锅中爆香蒜末和辣椒。",
+      "下主料翻炒至表面微焦。",
+      "加入孜然粉、辣椒粉、生抽和盐炒匀。"
+    ],
+    "tags": [
+      "孜然",
+      "素菜豆制品"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 28,
+    "name": "香辣鱿鱼须",
+    "category": "海鲜水产",
+    "video_time_sec": 42.5,
+    "video_time": "00:42",
+    "cover_image": "covers/028_香辣鱿鱼须_cover.jpg",
+    "source_card_image": "recipe_cards/028_香辣鱿鱼须.jpg",
+    "steps": [
+      "主料处理干净，必要时腌制或焯水。",
+      "热锅爆香姜蒜、辣椒、花椒或剁椒。",
+      "下主料大火翻炒至熟。",
+      "加入生抽、蚝油和少许糖调味，炒匀出锅。"
+    ],
+    "tags": [
+      "香辣",
+      "海鲜水产"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 29,
+    "name": "香煎豆腐",
+    "category": "素菜豆制品",
+    "video_time_sec": 44.0,
+    "video_time": "00:44",
+    "cover_image": "covers/029_香煎豆腐_cover.jpg",
+    "source_card_image": "recipe_cards/029_香煎豆腐.jpg",
+    "steps": [
+      "豆腐切厚片，表面吸干水分。",
+      "平底锅少油煎至两面金黄。",
+      "加入蒜末、小米辣和调味汁。",
+      "小火焖入味，撒葱花出锅。"
+    ],
+    "tags": [
+      "香煎",
+      "素菜豆制品"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 30,
+    "name": "腐竹炒肉",
+    "category": "猪肉排骨",
+    "video_time_sec": 45.5,
+    "video_time": "00:45",
+    "cover_image": "covers/030_腐竹炒肉_cover.jpg",
+    "source_card_image": "recipe_cards/030_腐竹炒肉.jpg",
+    "steps": [
+      "主料和配菜切好，肉类可先加生抽、料酒、淀粉腌制。",
+      "热锅爆香葱姜蒜，先炒主料至变色。",
+      "加入配菜大火翻炒至断生。",
+      "加生抽、蚝油、盐等调味，炒匀出锅。"
+    ],
+    "tags": [
+      "猪肉排骨"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 31,
+    "name": "青椒肉丝",
+    "category": "猪肉排骨",
+    "video_time_sec": 47.0,
+    "video_time": "00:47",
+    "cover_image": "covers/031_青椒肉丝_cover.jpg",
+    "source_card_image": "recipe_cards/031_青椒肉丝.jpg",
+    "steps": [
+      "主料处理干净，按菜名准备配菜。",
+      "先完成腌制、焯水或煎炸等预处理。",
+      "热锅加入葱姜蒜和调味料炒香。",
+      "主料回锅加调味汁，熟透入味后出锅。"
+    ],
+    "tags": [
+      "猪肉排骨"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 32,
+    "name": "西葫芦炒鸡蛋",
+    "category": "鸡蛋类",
+    "video_time_sec": 48.5,
+    "video_time": "00:48",
+    "cover_image": "covers/032_西葫芦炒鸡蛋_cover.jpg",
+    "source_card_image": "recipe_cards/032_西葫芦炒鸡蛋.jpg",
+    "steps": [
+      "鸡蛋处理好，配菜洗净切好。",
+      "鸡蛋先煎/炒至定型后盛出。",
+      "热锅爆香蒜末，下配菜翻炒至断生。",
+      "鸡蛋回锅，加盐、生抽或蚝油炒匀出锅。"
+    ],
+    "tags": [
+      "鸡蛋类"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 33,
+    "name": "香菇板栗鸡翅",
+    "category": "鸡鸭禽类",
+    "video_time_sec": 50.0,
+    "video_time": "00:50",
+    "cover_image": "covers/033_香菇板栗鸡翅_cover.jpg",
+    "source_card_image": "recipe_cards/033_香菇板栗鸡翅.jpg",
+    "steps": [
+      "主料处理干净，按菜名准备配菜。",
+      "先完成腌制、焯水或煎炸等预处理。",
+      "热锅加入葱姜蒜和调味料炒香。",
+      "主料回锅加调味汁，熟透入味后出锅。"
+    ],
+    "tags": [
+      "鸡鸭禽类"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 34,
+    "name": "粉丝蒸扇贝",
+    "category": "海鲜水产",
+    "video_time_sec": 51.5,
+    "video_time": "00:51",
+    "cover_image": "covers/034_粉丝蒸扇贝_cover.jpg",
+    "source_card_image": "recipe_cards/034_粉丝蒸扇贝.jpg",
+    "steps": [
+      "主料清洗处理，粉丝或配菜提前泡软。",
+      "摆盘后铺蒜蓉和调味汁。",
+      "水开上锅蒸至熟透。",
+      "出锅撒葱花，淋热油或蒸鱼豉油。"
+    ],
+    "tags": [
+      "蒸",
+      "海鲜水产"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 35,
+    "name": "香菜炒牛肉",
+    "category": "牛肉牛蛙",
+    "video_time_sec": 53.0,
+    "video_time": "00:53",
+    "cover_image": "covers/035_香菜炒牛肉_cover.jpg",
+    "source_card_image": "recipe_cards/035_香菜炒牛肉.jpg",
+    "steps": [
+      "牛肉切片，加生抽、淀粉和油腌制。",
+      "热锅快炒牛肉至变色盛出。",
+      "爆香姜蒜、小米辣，下牛肉回锅。",
+      "加入香菜段，快速翻匀出锅。"
+    ],
+    "tags": [
+      "牛肉牛蛙"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 36,
+    "name": "香辣鸡胗",
+    "category": "鸡鸭禽类",
+    "video_time_sec": 54.5,
+    "video_time": "00:54",
+    "cover_image": "covers/036_香辣鸡胗_cover.jpg",
+    "source_card_image": "recipe_cards/036_香辣鸡胗.jpg",
+    "steps": [
+      "主料处理干净，必要时腌制或焯水。",
+      "热锅爆香姜蒜、辣椒、花椒或剁椒。",
+      "下主料大火翻炒至熟。",
+      "加入生抽、蚝油和少许糖调味，炒匀出锅。"
+    ],
+    "tags": [
+      "香辣",
+      "鸡鸭禽类"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 37,
+    "name": "葱油蛏子",
+    "category": "海鲜水产",
+    "video_time_sec": 56.0,
+    "video_time": "00:56",
+    "cover_image": "covers/037_葱油蛏子_cover.jpg",
+    "source_card_image": "recipe_cards/037_葱油蛏子.jpg",
+    "steps": [
+      "蛏子吐沙洗净，焯烫至开口。",
+      "摆盘后铺葱丝、姜丝和小米辣。",
+      "淋生抽或蒸鱼豉油。",
+      "浇热油激香即可。"
+    ],
+    "tags": [
+      "海鲜水产"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 38,
+    "name": "糖醋排骨",
+    "category": "猪肉排骨",
+    "video_time_sec": 57.5,
+    "video_time": "00:57",
+    "cover_image": "covers/038_糖醋排骨_cover.jpg",
+    "source_card_image": "recipe_cards/038_糖醋排骨.jpg",
+    "steps": [
+      "排骨焯水后沥干。",
+      "锅中煎至表面微焦。",
+      "加入糖醋汁和适量清水焖煮。",
+      "大火收汁至挂浆，撒芝麻出锅。"
+    ],
+    "tags": [
+      "糖醋",
+      "猪肉排骨"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 39,
+    "name": "香菜拌牛肉",
+    "category": "凉拌开胃",
+    "video_time_sec": 59.0,
+    "video_time": "00:59",
+    "cover_image": "covers/039_香菜拌牛肉_cover.jpg",
+    "source_card_image": "recipe_cards/039_香菜拌牛肉.jpg",
+    "steps": [
+      "牛肉切片腌制后焯/煮熟。",
+      "调拌汁：生抽、醋、蒜末、辣椒、芝麻和香油。",
+      "牛肉沥干后淋入料汁。",
+      "加入香菜拌匀，静置入味。"
+    ],
+    "tags": [
+      "凉拌开胃"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 40,
+    "name": "蒜苔炒肉",
+    "category": "猪肉排骨",
+    "video_time_sec": 60.5,
+    "video_time": "01:00",
+    "cover_image": "covers/040_蒜苔炒肉_cover.jpg",
+    "source_card_image": "recipe_cards/040_蒜苔炒肉.jpg",
+    "steps": [
+      "主料和配菜切好，肉类可先加生抽、料酒、淀粉腌制。",
+      "热锅爆香葱姜蒜，先炒主料至变色。",
+      "加入配菜大火翻炒至断生。",
+      "加生抽、蚝油、盐等调味，炒匀出锅。"
+    ],
+    "tags": [
+      "猪肉排骨"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 41,
+    "name": "青椒炒鸡",
+    "category": "鸡鸭禽类",
+    "video_time_sec": 62.0,
+    "video_time": "01:02",
+    "cover_image": "covers/041_青椒炒鸡_cover.jpg",
+    "source_card_image": "recipe_cards/041_青椒炒鸡.jpg",
+    "steps": [
+      "主料和配菜切好，肉类可先加生抽、料酒、淀粉腌制。",
+      "热锅爆香葱姜蒜，先炒主料至变色。",
+      "加入配菜大火翻炒至断生。",
+      "加生抽、蚝油、盐等调味，炒匀出锅。"
+    ],
+    "tags": [
+      "鸡鸭禽类"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 42,
+    "name": "干锅肥肠",
+    "category": "猪肉排骨",
+    "video_time_sec": 63.5,
+    "video_time": "01:03",
+    "cover_image": "covers/042_干锅肥肠_cover.jpg",
+    "source_card_image": "recipe_cards/042_干锅肥肠.jpg",
+    "steps": [
+      "主料和配菜处理好，部分食材先焯水或煎熟。",
+      "锅中爆香葱姜蒜、干辣椒和豆瓣/火锅底料。",
+      "下主料和配菜大火翻炒。",
+      "加生抽、蚝油调味，炒干香后出锅。"
+    ],
+    "tags": [
+      "干锅",
+      "猪肉排骨"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 43,
+    "name": "红烧肉",
+    "category": "猪肉排骨",
+    "video_time_sec": 65.0,
+    "video_time": "01:05",
+    "cover_image": "covers/043_红烧肉_cover.jpg",
+    "source_card_image": "recipe_cards/043_红烧肉.jpg",
+    "steps": [
+      "五花肉切块焯水。",
+      "锅中炒糖色，下五花肉煸炒上色。",
+      "加入葱姜、料酒、生抽、老抽和清水炖煮。",
+      "炖至软糯后大火收汁。"
+    ],
+    "tags": [
+      "红烧",
+      "猪肉排骨"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 44,
+    "name": "金钱蛋",
+    "category": "鸡蛋类",
+    "video_time_sec": 66.5,
+    "video_time": "01:06",
+    "cover_image": "covers/044_金钱蛋_cover.jpg",
+    "source_card_image": "recipe_cards/044_金钱蛋.jpg",
+    "steps": [
+      "鸡蛋处理好，配菜洗净切好。",
+      "鸡蛋先煎/炒至定型后盛出。",
+      "热锅爆香蒜末，下配菜翻炒至断生。",
+      "鸡蛋回锅，加盐、生抽或蚝油炒匀出锅。"
+    ],
+    "tags": [
+      "鸡蛋类"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 45,
+    "name": "虎皮青椒",
+    "category": "素菜豆制品",
+    "video_time_sec": 68.0,
+    "video_time": "01:08",
+    "cover_image": "covers/045_虎皮青椒_cover.jpg",
+    "source_card_image": "recipe_cards/045_虎皮青椒.jpg",
+    "steps": [
+      "青椒拍裂或切段。",
+      "干锅或少油煎至表面起虎皮。",
+      "加入蒜末、生抽、醋、糖和盐。",
+      "翻炒入味后出锅。"
+    ],
+    "tags": [
+      "素菜豆制品"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 46,
+    "name": "辣子鸡丁",
+    "category": "鸡鸭禽类",
+    "video_time_sec": 69.5,
+    "video_time": "01:09",
+    "cover_image": "covers/046_辣子鸡丁_cover.jpg",
+    "source_card_image": "recipe_cards/046_辣子鸡丁.jpg",
+    "steps": [
+      "鸡腿肉切丁腌制。",
+      "热油炸/煎至外酥里嫩。",
+      "爆香干辣椒、花椒、姜蒜。",
+      "鸡丁回锅翻炒，撒芝麻和葱段。"
+    ],
+    "tags": [
+      "鸡鸭禽类"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 47,
+    "name": "红烧排骨",
+    "category": "猪肉排骨",
+    "video_time_sec": 71.0,
+    "video_time": "01:11",
+    "cover_image": "covers/047_红烧排骨_cover.jpg",
+    "source_card_image": "recipe_cards/047_红烧排骨.jpg",
+    "steps": [
+      "主料处理干净，必要时焯水去腥。",
+      "热锅煸炒主料，加入葱姜蒜和料酒。",
+      "加生抽、老抽、糖和清水焖煮入味。",
+      "大火收汁，撒葱花出锅。"
+    ],
+    "tags": [
+      "红烧",
+      "猪肉排骨"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 48,
+    "name": "蒜香鸡翅",
+    "category": "鸡鸭禽类",
+    "video_time_sec": 72.5,
+    "video_time": "01:12",
+    "cover_image": "covers/048_蒜香鸡翅_cover.jpg",
+    "source_card_image": "recipe_cards/048_蒜香鸡翅.jpg",
+    "steps": [
+      "主料处理干净，按菜名准备配菜。",
+      "先完成腌制、焯水或煎炸等预处理。",
+      "热锅加入葱姜蒜和调味料炒香。",
+      "主料回锅加调味汁，熟透入味后出锅。"
+    ],
+    "tags": [
+      "蒜香",
+      "鸡鸭禽类"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 49,
+    "name": "香煎鲈鱼",
+    "category": "海鲜水产",
+    "video_time_sec": 74.0,
+    "video_time": "01:14",
+    "cover_image": "covers/049_香煎鲈鱼_cover.jpg",
+    "source_card_image": "recipe_cards/049_香煎鲈鱼.jpg",
+    "steps": [
+      "主料处理干净并吸干水分。",
+      "表面加盐、料酒或少许淀粉腌制。",
+      "平底锅少油煎至两面金黄。",
+      "加入调味汁略焖，撒葱花出锅。"
+    ],
+    "tags": [
+      "香煎",
+      "海鲜水产"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 50,
+    "name": "锅包肉",
+    "category": "猪肉排骨",
+    "video_time_sec": 75.5,
+    "video_time": "01:15",
+    "cover_image": "covers/050_锅包肉_cover.jpg",
+    "source_card_image": "recipe_cards/050_锅包肉.jpg",
+    "steps": [
+      "里脊肉切片腌制，挂淀粉糊。",
+      "热油炸至定型，复炸至酥脆。",
+      "锅中熬酸甜汁。",
+      "肉片回锅快速裹汁，撒葱姜丝。"
+    ],
+    "tags": [
+      "猪肉排骨"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 51,
+    "name": "青椒炒豆泡",
+    "category": "素菜豆制品",
+    "video_time_sec": 77.0,
+    "video_time": "01:17",
+    "cover_image": "covers/051_青椒炒豆泡_cover.jpg",
+    "source_card_image": "recipe_cards/051_青椒炒豆泡.jpg",
+    "steps": [
+      "主料和配菜切好，肉类可先加生抽、料酒、淀粉腌制。",
+      "热锅爆香葱姜蒜，先炒主料至变色。",
+      "加入配菜大火翻炒至断生。",
+      "加生抽、蚝油、盐等调味，炒匀出锅。"
+    ],
+    "tags": [
+      "素菜豆制品"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 52,
+    "name": "麻辣肥牛",
+    "category": "牛肉牛蛙",
+    "video_time_sec": 78.5,
+    "video_time": "01:18",
+    "cover_image": "covers/052_麻辣肥牛_cover.jpg",
+    "source_card_image": "recipe_cards/052_麻辣肥牛.jpg",
+    "steps": [
+      "主料处理干净，必要时腌制或焯水。",
+      "热锅爆香姜蒜、辣椒、花椒或剁椒。",
+      "下主料大火翻炒至熟。",
+      "加入生抽、蚝油和少许糖调味，炒匀出锅。"
+    ],
+    "tags": [
+      "麻辣",
+      "牛肉牛蛙"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 53,
+    "name": "土豆炖排骨",
+    "category": "猪肉排骨",
+    "video_time_sec": 80.0,
+    "video_time": "01:20",
+    "cover_image": "covers/053_土豆炖排骨_cover.jpg",
+    "source_card_image": "recipe_cards/053_土豆炖排骨.jpg",
+    "steps": [
+      "主料切块，必要时焯水或提前泡软。",
+      "热锅爆香葱姜蒜，下主料煸炒。",
+      "加入调味汁和适量清水，中小火炖/焖。",
+      "炖至软烂入味后收汁出锅。"
+    ],
+    "tags": [
+      "炖",
+      "猪肉排骨"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 54,
+    "name": "干煸鸡丝",
+    "category": "鸡鸭禽类",
+    "video_time_sec": 81.5,
+    "video_time": "01:21",
+    "cover_image": "covers/054_干煸鸡丝_cover.jpg",
+    "source_card_image": "recipe_cards/054_干煸鸡丝.jpg",
+    "steps": [
+      "主料处理干净，按菜名准备配菜。",
+      "先完成腌制、焯水或煎炸等预处理。",
+      "热锅加入葱姜蒜和调味料炒香。",
+      "主料回锅加调味汁，熟透入味后出锅。"
+    ],
+    "tags": [
+      "鸡鸭禽类"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 55,
+    "name": "番茄土豆炖牛腩",
+    "category": "牛肉牛蛙",
+    "video_time_sec": 83.0,
+    "video_time": "01:23",
+    "cover_image": "covers/055_番茄土豆炖牛腩_cover.jpg",
+    "source_card_image": "recipe_cards/055_番茄土豆炖牛腩.jpg",
+    "steps": [
+      "主料切块，必要时焯水或提前泡软。",
+      "热锅爆香葱姜蒜，下主料煸炒。",
+      "加入调味汁和适量清水，中小火炖/焖。",
+      "炖至软烂入味后收汁出锅。"
+    ],
+    "tags": [
+      "炖",
+      "牛肉牛蛙"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 56,
+    "name": "口蘑炒五花肉",
+    "category": "猪肉排骨",
+    "video_time_sec": 84.5,
+    "video_time": "01:24",
+    "cover_image": "covers/056_口蘑炒五花肉_cover.jpg",
+    "source_card_image": "recipe_cards/056_口蘑炒五花肉.jpg",
+    "steps": [
+      "主料和配菜切好，肉类可先加生抽、料酒、淀粉腌制。",
+      "热锅爆香葱姜蒜，先炒主料至变色。",
+      "加入配菜大火翻炒至断生。",
+      "加生抽、蚝油、盐等调味，炒匀出锅。"
+    ],
+    "tags": [
+      "猪肉排骨"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 57,
+    "name": "宫爆鸡丁",
+    "category": "鸡鸭禽类",
+    "video_time_sec": 86.0,
+    "video_time": "01:26",
+    "cover_image": "covers/057_宫爆鸡丁_cover.jpg",
+    "source_card_image": "recipe_cards/057_宫爆鸡丁.jpg",
+    "steps": [
+      "鸡胸/鸡腿肉切丁腌制，花生米备好。",
+      "调宫爆汁：生抽、醋、糖、淀粉和清水。",
+      "爆香干辣椒、花椒、葱姜蒜，下鸡丁炒熟。",
+      "倒入料汁收浓，加入花生米翻匀。"
+    ],
+    "tags": [
+      "鸡鸭禽类"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 58,
+    "name": "红烧狮子头",
+    "category": "猪肉排骨",
+    "video_time_sec": 87.5,
+    "video_time": "01:27",
+    "cover_image": "covers/058_红烧狮子头_cover.jpg",
+    "source_card_image": "recipe_cards/058_红烧狮子头.jpg",
+    "steps": [
+      "肉馅加葱姜、鸡蛋和淀粉搅打上劲。",
+      "团成肉丸，煎/炸至定型。",
+      "加入红烧汁和清水焖煮。",
+      "收汁后撒葱花装盘。"
+    ],
+    "tags": [
+      "红烧",
+      "猪肉排骨"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 59,
+    "name": "豆腐焖木耳",
+    "category": "素菜豆制品",
+    "video_time_sec": 89.0,
+    "video_time": "01:29",
+    "cover_image": "covers/059_豆腐焖木耳_cover.jpg",
+    "source_card_image": "recipe_cards/059_豆腐焖木耳.jpg",
+    "steps": [
+      "主料切块，必要时焯水或提前泡软。",
+      "热锅爆香葱姜蒜，下主料煸炒。",
+      "加入调味汁和适量清水，中小火炖/焖。",
+      "炖至软烂入味后收汁出锅。"
+    ],
+    "tags": [
+      "焖",
+      "素菜豆制品"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 60,
+    "name": "香脆莲藕",
+    "category": "素菜豆制品",
+    "video_time_sec": 90.5,
+    "video_time": "01:30",
+    "cover_image": "covers/060_香脆莲藕_cover.jpg",
+    "source_card_image": "recipe_cards/060_香脆莲藕.jpg",
+    "steps": [
+      "主料处理干净，按菜名准备配菜。",
+      "先完成腌制、焯水或煎炸等预处理。",
+      "热锅加入葱姜蒜和调味料炒香。",
+      "主料回锅加调味汁，熟透入味后出锅。"
+    ],
+    "tags": [
+      "素菜豆制品"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 61,
+    "name": "肉沫茄子",
+    "category": "猪肉排骨",
+    "video_time_sec": 92.0,
+    "video_time": "01:32",
+    "cover_image": "covers/061_肉沫茄子_cover.jpg",
+    "source_card_image": "recipe_cards/061_肉沫茄子.jpg",
+    "steps": [
+      "主料处理干净，按菜名准备配菜。",
+      "先完成腌制、焯水或煎炸等预处理。",
+      "热锅加入葱姜蒜和调味料炒香。",
+      "主料回锅加调味汁，熟透入味后出锅。"
+    ],
+    "tags": [
+      "猪肉排骨"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 62,
+    "name": "麻辣香锅",
+    "category": "锅物粉条",
+    "video_time_sec": 93.5,
+    "video_time": "01:33",
+    "cover_image": "covers/062_麻辣香锅_cover.jpg",
+    "source_card_image": "recipe_cards/062_麻辣香锅.jpg",
+    "steps": [
+      "各种食材焯熟或煎熟备用。",
+      "锅中炒香葱姜蒜、干辣椒和香锅底料。",
+      "下所有食材翻炒均匀。",
+      "按口味加生抽、糖和芝麻调味。"
+    ],
+    "tags": [
+      "麻辣",
+      "锅物粉条"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 63,
+    "name": "娃娃菜炖粉条",
+    "category": "锅物粉条",
+    "video_time_sec": 95.0,
+    "video_time": "01:35",
+    "cover_image": "covers/063_娃娃菜炖粉条_cover.jpg",
+    "source_card_image": "recipe_cards/063_娃娃菜炖粉条.jpg",
+    "steps": [
+      "主料切块，必要时焯水或提前泡软。",
+      "热锅爆香葱姜蒜，下主料煸炒。",
+      "加入调味汁和适量清水，中小火炖/焖。",
+      "炖至软烂入味后收汁出锅。"
+    ],
+    "tags": [
+      "炖",
+      "锅物粉条"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 64,
+    "name": "黄瓜拌皮蛋",
+    "category": "凉拌开胃",
+    "video_time_sec": 96.5,
+    "video_time": "01:36",
+    "cover_image": "covers/064_黄瓜拌皮蛋_cover.jpg",
+    "source_card_image": "recipe_cards/064_黄瓜拌皮蛋.jpg",
+    "steps": [
+      "黄瓜拍碎切段，皮蛋切块。",
+      "调汁：蒜末、小米辣、生抽、醋、香油和少许糖。",
+      "黄瓜和皮蛋装盘。",
+      "淋入料汁拌匀即可。"
+    ],
+    "tags": [
+      "凉拌开胃"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 65,
+    "name": "蒜苗炒五花肉",
+    "category": "猪肉排骨",
+    "video_time_sec": 98.0,
+    "video_time": "01:38",
+    "cover_image": "covers/065_蒜苗炒五花肉_cover.jpg",
+    "source_card_image": "recipe_cards/065_蒜苗炒五花肉.jpg",
+    "steps": [
+      "主料和配菜切好，肉类可先加生抽、料酒、淀粉腌制。",
+      "热锅爆香葱姜蒜，先炒主料至变色。",
+      "加入配菜大火翻炒至断生。",
+      "加生抽、蚝油、盐等调味，炒匀出锅。"
+    ],
+    "tags": [
+      "猪肉排骨"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 66,
+    "name": "麻辣虾尾",
+    "category": "海鲜水产",
+    "video_time_sec": 99.5,
+    "video_time": "01:39",
+    "cover_image": "covers/066_麻辣虾尾_cover.jpg",
+    "source_card_image": "recipe_cards/066_麻辣虾尾.jpg",
+    "steps": [
+      "主料处理干净，必要时腌制或焯水。",
+      "热锅爆香姜蒜、辣椒、花椒或剁椒。",
+      "下主料大火翻炒至熟。",
+      "加入生抽、蚝油和少许糖调味，炒匀出锅。"
+    ],
+    "tags": [
+      "麻辣",
+      "海鲜水产"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 67,
+    "name": "孜然豆皮",
+    "category": "素菜豆制品",
+    "video_time_sec": 101.0,
+    "video_time": "01:41",
+    "cover_image": "covers/067_孜然豆皮_cover.jpg",
+    "source_card_image": "recipe_cards/067_孜然豆皮.jpg",
+    "steps": [
+      "主料切片或切块，必要时焯水/煎熟。",
+      "锅中爆香蒜末和辣椒。",
+      "下主料翻炒至表面微焦。",
+      "加入孜然粉、辣椒粉、生抽和盐炒匀。"
+    ],
+    "tags": [
+      "孜然",
+      "素菜豆制品"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 68,
+    "name": "口水鸡",
+    "category": "凉拌开胃",
+    "video_time_sec": 102.5,
+    "video_time": "01:42",
+    "cover_image": "covers/068_口水鸡_cover.jpg",
+    "source_card_image": "recipe_cards/068_口水鸡.jpg",
+    "steps": [
+      "鸡腿煮熟后过凉，撕块或切块。",
+      "调红油料汁：生抽、醋、蒜末、辣椒油、花椒油和芝麻。",
+      "鸡肉装盘后淋入料汁。",
+      "撒花生碎、葱花或香菜。"
+    ],
+    "tags": [
+      "凉拌开胃"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 69,
+    "name": "香菇滑鸡",
+    "category": "鸡鸭禽类",
+    "video_time_sec": 104.0,
+    "video_time": "01:44",
+    "cover_image": "covers/069_香菇滑鸡_cover.jpg",
+    "source_card_image": "recipe_cards/069_香菇滑鸡.jpg",
+    "steps": [
+      "主料处理干净，按菜名准备配菜。",
+      "先完成腌制、焯水或煎炸等预处理。",
+      "热锅加入葱姜蒜和调味料炒香。",
+      "主料回锅加调味汁，熟透入味后出锅。"
+    ],
+    "tags": [
+      "鸡鸭禽类"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 70,
+    "name": "包菜炒鸡蛋",
+    "category": "鸡蛋类",
+    "video_time_sec": 105.5,
+    "video_time": "01:45",
+    "cover_image": "covers/070_包菜炒鸡蛋_cover.jpg",
+    "source_card_image": "recipe_cards/070_包菜炒鸡蛋.jpg",
+    "steps": [
+      "鸡蛋处理好，配菜洗净切好。",
+      "鸡蛋先煎/炒至定型后盛出。",
+      "热锅爆香蒜末，下配菜翻炒至断生。",
+      "鸡蛋回锅，加盐、生抽或蚝油炒匀出锅。"
+    ],
+    "tags": [
+      "鸡蛋类"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 71,
+    "name": "虎皮青椒炒鸡蛋",
+    "category": "鸡蛋类",
+    "video_time_sec": 107.0,
+    "video_time": "01:47",
+    "cover_image": "covers/071_虎皮青椒炒鸡蛋_cover.jpg",
+    "source_card_image": "recipe_cards/071_虎皮青椒炒鸡蛋.jpg",
+    "steps": [
+      "鸡蛋处理好，配菜洗净切好。",
+      "鸡蛋先煎/炒至定型后盛出。",
+      "热锅爆香蒜末，下配菜翻炒至断生。",
+      "鸡蛋回锅，加盐、生抽或蚝油炒匀出锅。"
+    ],
+    "tags": [
+      "鸡蛋类"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 72,
+    "name": "狼牙土豆",
+    "category": "素菜豆制品",
+    "video_time_sec": 108.5,
+    "video_time": "01:48",
+    "cover_image": "covers/072_狼牙土豆_cover.jpg",
+    "source_card_image": "recipe_cards/072_狼牙土豆.jpg",
+    "steps": [
+      "土豆切狼牙条，清水冲洗。",
+      "油煎或炸至外酥内软。",
+      "加入辣椒面、孜然粉、生抽和葱花。",
+      "翻拌均匀即可。"
+    ],
+    "tags": [
+      "素菜豆制品"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 73,
+    "name": "凉拌豆角",
+    "category": "凉拌开胃",
+    "video_time_sec": 110.0,
+    "video_time": "01:50",
+    "cover_image": "covers/073_凉拌豆角_cover.jpg",
+    "source_card_image": "recipe_cards/073_凉拌豆角.jpg",
+    "steps": [
+      "豆角切段，焯熟后过凉。",
+      "蒜末、小米辣、芝麻备好。",
+      "调入生抽、醋、盐、糖和香油。",
+      "淋汁拌匀即可。"
+    ],
+    "tags": [
+      "凉拌",
+      "凉拌开胃"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 74,
+    "name": "豆角焖土豆",
+    "category": "素菜豆制品",
+    "video_time_sec": 111.5,
+    "video_time": "01:51",
+    "cover_image": "covers/074_豆角焖土豆_cover.jpg",
+    "source_card_image": "recipe_cards/074_豆角焖土豆.jpg",
+    "steps": [
+      "豆角掰段，土豆切条或块。",
+      "热锅炒香蒜末，下豆角和土豆煸炒。",
+      "加生抽、蚝油和少量水焖熟。",
+      "收汁后撒葱花出锅。"
+    ],
+    "tags": [
+      "焖",
+      "素菜豆制品"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 75,
+    "name": "绿豆芽炒肉丝",
+    "category": "猪肉排骨",
+    "video_time_sec": 113.0,
+    "video_time": "01:53",
+    "cover_image": "covers/075_绿豆芽炒肉丝_cover.jpg",
+    "source_card_image": "recipe_cards/075_绿豆芽炒肉丝.jpg",
+    "steps": [
+      "主料和配菜切好，肉类可先加生抽、料酒、淀粉腌制。",
+      "热锅爆香葱姜蒜，先炒主料至变色。",
+      "加入配菜大火翻炒至断生。",
+      "加生抽、蚝油、盐等调味，炒匀出锅。"
+    ],
+    "tags": [
+      "猪肉排骨"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 76,
+    "name": "娃娃菜焖鸡腿肉",
+    "category": "鸡鸭禽类",
+    "video_time_sec": 114.5,
+    "video_time": "01:54",
+    "cover_image": "covers/076_娃娃菜焖鸡腿肉_cover.jpg",
+    "source_card_image": "recipe_cards/076_娃娃菜焖鸡腿肉.jpg",
+    "steps": [
+      "主料切块，必要时焯水或提前泡软。",
+      "热锅爆香葱姜蒜，下主料煸炒。",
+      "加入调味汁和适量清水，中小火炖/焖。",
+      "炖至软烂入味后收汁出锅。"
+    ],
+    "tags": [
+      "焖",
+      "鸡鸭禽类"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 77,
+    "name": "剁椒牛肉",
+    "category": "牛肉牛蛙",
+    "video_time_sec": 116.0,
+    "video_time": "01:56",
+    "cover_image": "covers/077_剁椒牛肉_cover.jpg",
+    "source_card_image": "recipe_cards/077_剁椒牛肉.jpg",
+    "steps": [
+      "主料处理干净，必要时腌制或焯水。",
+      "热锅爆香姜蒜、辣椒、花椒或剁椒。",
+      "下主料大火翻炒至熟。",
+      "加入生抽、蚝油和少许糖调味，炒匀出锅。"
+    ],
+    "tags": [
+      "剁椒",
+      "牛肉牛蛙"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 78,
+    "name": "水煮牛肉",
+    "category": "牛肉牛蛙",
+    "video_time_sec": 117.5,
+    "video_time": "01:57",
+    "cover_image": "covers/078_水煮牛肉_cover.jpg",
+    "source_card_image": "recipe_cards/078_水煮牛肉.jpg",
+    "steps": [
+      "牛肉切片腌制，蔬菜焯熟垫底。",
+      "锅中炒香豆瓣酱、姜蒜和辣椒。",
+      "加水煮开后滑入牛肉片。",
+      "倒入碗中，铺辣椒花椒并浇热油。"
+    ],
+    "tags": [
+      "牛肉牛蛙"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 79,
+    "name": "干锅土豆片",
+    "category": "素菜豆制品",
+    "video_time_sec": 119.0,
+    "video_time": "01:59",
+    "cover_image": "covers/079_干锅土豆片_cover.jpg",
+    "source_card_image": "recipe_cards/079_干锅土豆片.jpg",
+    "steps": [
+      "主料和配菜处理好，部分食材先焯水或煎熟。",
+      "锅中爆香葱姜蒜、干辣椒和豆瓣/火锅底料。",
+      "下主料和配菜大火翻炒。",
+      "加生抽、蚝油调味，炒干香后出锅。"
+    ],
+    "tags": [
+      "干锅",
+      "素菜豆制品"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 80,
+    "name": "香辣牛肚",
+    "category": "牛肉牛蛙",
+    "video_time_sec": 120.5,
+    "video_time": "02:00",
+    "cover_image": "covers/080_香辣牛肚_cover.jpg",
+    "source_card_image": "recipe_cards/080_香辣牛肚.jpg",
+    "steps": [
+      "主料处理干净，必要时腌制或焯水。",
+      "热锅爆香姜蒜、辣椒、花椒或剁椒。",
+      "下主料大火翻炒至熟。",
+      "加入生抽、蚝油和少许糖调味，炒匀出锅。"
+    ],
+    "tags": [
+      "香辣",
+      "牛肉牛蛙"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 81,
+    "name": "黄豆芽焖粉条",
+    "category": "锅物粉条",
+    "video_time_sec": 122.0,
+    "video_time": "02:02",
+    "cover_image": "covers/081_黄豆芽焖粉条_cover.jpg",
+    "source_card_image": "recipe_cards/081_黄豆芽焖粉条.jpg",
+    "steps": [
+      "粉条提前泡软，黄豆芽洗净。",
+      "锅中爆香葱姜蒜，炒黄豆芽。",
+      "加入粉条和调味汁，加少量水焖煮。",
+      "焖至粉条入味，收汁出锅。"
+    ],
+    "tags": [
+      "焖",
+      "锅物粉条"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  },
+  {
+    "id": 82,
+    "name": "四季豆炒肉",
+    "category": "猪肉排骨",
+    "video_time_sec": 123.5,
+    "video_time": "02:03",
+    "cover_image": "covers/082_四季豆炒肉_cover.jpg",
+    "source_card_image": "recipe_cards/082_四季豆炒肉.jpg",
+    "steps": [
+      "主料和配菜切好，肉类可先加生抽、料酒、淀粉腌制。",
+      "热锅爆香葱姜蒜，先炒主料至变色。",
+      "加入配菜大火翻炒至断生。",
+      "加生抽、蚝油、盐等调味，炒匀出锅。"
+    ],
+    "tags": [
+      "猪肉排骨"
+    ],
+    "image_step_check": "通过：菜名标题、源卡片配图与步骤缩略图一致；调料小字需二次复核"
+  }
+]
